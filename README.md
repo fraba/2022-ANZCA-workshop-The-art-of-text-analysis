@@ -13,7 +13,7 @@ Note: I will keep updating this page until the day of the workshop...
 ### Suggested pre-readings
 
 * Kong, Q., Booth, E., Bailo, F., Johns, A., & Rizoiu, M.-A. (2022). Slipping to the Extreme: A Mixed Method to Explain How Extreme Opinions Infiltrate Online Discussions. *Proceedings of the International AAAI Conference on Web and Social Media*, 16(1), 524–535. [https://ojs.aaai.org/index.php/ICWSM/article/view/19312](https://ojs.aaai.org/index.php/ICWSM/article/view/19312)  
-This is a paper I co-authored. I will discuss during the workshop so you might want to have a look! **Warning** Mathematical notation is used in the article: Reader discretion is advised.
+This is a paper I co-authored. I will discuss it during the workshop so you might want to have a look! **Warning** Mathematical notation is used in the article: Reader discretion is advised.
 * Robinson, J. S. D. (2017). *Text mining with R: A tidy approach*. Sebastopol, CA: O’Reilly. [tidytextmining.com](https://www.tidytextmining.com/).  
 This is of course a reference text. I would suggest you read the prefance and skim through the rest of the chapters.
 * Welbers, K., Van Atteveldt, W., & Benoit, K. (2017). Text analysis in R. *Communication Methods and Measures*, 11(4), 245–265. [doi.org/10.1080/19312458.2017.1387238](https://doi.org/10.1080/19312458.2017.1387238)  
@@ -33,9 +33,9 @@ TBD
 
 TBD
 
-## Contacts
+## Contact me
 
-francesco.bailo@uts.edu.au
+If you have any issue before or after the workshop: francesco.bailo@uts.edu.au.
 
 
 
