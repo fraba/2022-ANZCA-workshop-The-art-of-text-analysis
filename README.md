@@ -1,3 +1,5 @@
+Note: I will keep updating this page until the day of the workshop...
+
 ### Requirements for attendance
 
 * Bring your own laptop;
