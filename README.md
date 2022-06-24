@@ -6,7 +6,7 @@
 * Preinstall [R](https://cran.r-project.org/mirrors.html) and [RStudio](https://www.rstudio.com/products/rstudio/#Desktop) (instructions can be found [here](https://rstudio-education.github.io/hopr/starting.html));
 * Familiarise yourself with R and RStudio (you can start by reading the 'The R User Interface' section [here](https://rstudio-education.github.io/hopr/basics.html#the-r-user-interface));
 * Install and try to load all the following R packages: 'stm', 'tidyverse', 'tidytext', 'tidytext', 'xml2', 'pdftools', 'stringr', 'gutenbergr', 'jsonlite', 'tsne'. If you don't know how to install a package in R, have a look [here](https://rstudio-education.github.io/hopr/packages.html).
-* Finally, download the data files contained in this [share folder](https://drive.google.com/drive/folders/10VgpnN3aviduIKD7-bRoU7ybk0mwA9iF?usp=sharing) (to request access the folder you need a Google account).
+* Finally, download the data files contained in this [share folder](https://drive.google.com/drive/folders/10WHZxKpxs43dPQChLnX6KDKJJz9FQukd?usp=sharing) (to request access the folder you need a Google account).
 
 ### Suggested pre-readings
 
