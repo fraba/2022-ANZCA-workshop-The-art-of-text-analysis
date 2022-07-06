@@ -34,7 +34,10 @@ This article gives you a vert good sense of the most common steps and operations
 
 To download the data 
 
-* View the project on GitHub (<=), click on "Code", then "Download ZIP".
+* View the project on GitHub (<=), 
+  1. Click on "Code", 
+  2. then "Download ZIP". 
+  3. Open the ZIP file and navigate to the "data" folder.
 
 * **Twitter data only** Request access and download this folder 
 
