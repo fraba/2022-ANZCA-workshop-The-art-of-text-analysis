@@ -1,6 +1,6 @@
 ---
 title: "Text mining and text analysis"
-author: "Francesco Bailo"
+author: "Francesco Bailo (UTS)"
 date: '2022-07-07'
 output: ioslides_presentation
 ---
@@ -26,6 +26,12 @@ theme_set(theme_bw())
 ```
 
 # Text mining and text analysis
+
+## Who am I?
+
+* https://profiles.uts.edu.au/Francesco.Bailo
+
+* https://twitter.com/FrancescoBailo
 
 ## Let's take a form!
 
