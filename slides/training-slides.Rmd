@@ -1,0 +1,13 @@
+---
+title: "The Art of Text Analysis"
+author: "Francesco Bailo"
+date: '2022-07-07'
+output: beamer_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
