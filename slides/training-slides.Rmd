@@ -37,6 +37,12 @@ theme_set(theme_bw())
 
 * (for short -> https://bit.ly/3yIvmmq)
 
+## Also, open these slides in your browser
+
+* https://fraba.github.io/2022-ANZCA-workshop-The-art-of-text-analysis/slides/training-slides.html
+
+* (for short -> https://bit.ly/3yOAGVv)
+
 # Tableau
 
 ## Tableau at a glance
@@ -247,6 +253,12 @@ class(my_data)
 **Functions** accept objects of some *class* and return objects of some (but not necessary the same) *class*. 
 
 # Let's open RStudio...
+
+## Open these slides in your browser
+
+* https://fraba.github.io/2022-ANZCA-workshop-The-art-of-text-analysis/slides/training-slides.html
+
+* (for short -> https://bit.ly/3yOAGVv)
 
 ## Installing packages
 
@@ -485,7 +497,7 @@ ggplot(tidy_topics_doc_topic,
 
 ##
 
-```{r include = F}
+```{r echo = F}
 
 ggplot(tidy_topics_doc_topic,
        aes(y = gamma, x=factor(topic))) +
@@ -515,7 +527,7 @@ ggplot(spread_topics_doc_topic, aes(x=x,y=y,colour=title)) +
 
 ##
 
-```{r include = F}
+```{r echo = F}
 
 tidy_topics_doc_topic$document <- 
   paste0(tidy_topics_doc_topic$title, " # ", tidy_topics_doc_topic$chapter)
