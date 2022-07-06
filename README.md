@@ -25,13 +25,18 @@ This article gives you a vert good sense of the most common steps and operations
 * Manning, C. D., Raghavan, P., & Schütze, H. (2008). *Introduction to information retrieval*. New York, NY: Cambridge University Press. [nlp.stanford.edu/IR-book](https://nlp.stanford.edu/IR-book/)
 
 
-## Program
+## Date and Location
 
-TBD
+* 7 July 2022
+* Room 5B55a and Room 5B55b, The University of Canberra
 
-## Location
+## Data 
 
-TBD
+To download the data 
+
+* View the project on GitHub (<=), click on "Code", then "Download ZIP".
+
+* **Twitter data only** Request access and download this folder 
 
 ## Contact me
 
