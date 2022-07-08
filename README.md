@@ -40,6 +40,44 @@ To download the data
 
 * **Twitter data only** Download the data files contained in this [share folder](https://drive.google.com/drive/folders/10WHZxKpxs43dPQChLnX6KDKJJz9FQukd?usp=sharing) (to request access the folder you need a Google account).
 
+## Workshop notes
+
+### Natural language processing
+
+The widespread approach (research and industry) is to divide our text (aka *corpus*) in *documents*. There is no one way to do it. But documents. Documents  tell our models how to make sense of the relations among words (aka *terms*, ≈ *tokens*). 
+
+1. Corpus V
+2. Documents V
+3. Terms
+
+* *Terms* are not distributed randomly within a *document*;
+* *Documents* are not distributed randomly within a *corpus*.
+
+### Research use
+
+1. **Classify**: Clustering "similar" documents together (measuring similarity)
+2. **Discovery**: Finding "similar" documents
+
+### Industry use
+
+In addition to the above...
+1. **Predict/Complete**: Predict what is the next word/sentence 
+2. **Translate**: Predict what's the best sentence to translate a sentence between two languages
+
+### Common NPL approaches (Welbers et al., 2017)
+
+1. Counting (from a dictionary)
+2. Supervised machine learning
+3. Unsupervised machine learning
+
+### Common NLP techniques
+
+1. Bag-of-words
+2.  Lemmatisation (replace words with their lemmas)
+3. Part-of-speech tagging
+4. Named entity recognition
+5. Word positions and syntax
+
 ## Contact me
 
 If you have any issue before or after the workshop: francesco.bailo@uts.edu.au.
